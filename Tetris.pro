@@ -1,0 +1,5 @@
+-libraryjars C:\WTK2.5.1\lib\midpapi10.jar;C:\WTK2.5.1\lib\cldcapi10.jar;C:\WTK2.5.1\lib\cldcapi10.jar
+-injars C:\WTK2.5.1\apps\Tetris\bin\Tetris.jar
+-outjar C:\DOCUME~1\toxa\Local Settings\Temp\Tetris.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 
+-dontusemixedcaseclassnames
