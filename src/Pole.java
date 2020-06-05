@@ -1,3 +1,4 @@
+//Main array in which figures stores after landing
 public class Pole{
 
 public static boolean [][] kolodec;
